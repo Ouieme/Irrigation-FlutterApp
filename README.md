@@ -1,17 +1,34 @@
-# irrigo
+# 💧 IrrigoSmart
 
-A new Flutter project.
+**IrrigoSmart** is an intelligent water management mobile application built with Flutter. It integrates real-time weather data, soil characteristics, and crop information to optimize irrigation in arid and semi-arid regions.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 📡 Real-time data from IoT sensors (humidity, temperature) and APIs
+- 🔁 Smart irrigation recommendation based on:
+  - Crop type and stage
+  - Soil texture
+  - Weather forecast
+  - Current moisture levels
+- ☀️ Solar-powered integration in hardware
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📦 Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Irrigation-FlutterApp
+- **Frontend**: Flutter
+- **Backend**: Flask REST API
+- **ML Model**: Crop water requirement prediction using Random Forest
+- **Database**: Firebase Realtime Database
+
+
+
+## 🛠️ Installation
+
+### Requirements
+
+- Flutter SDK (>=3.0.0)
+- Python (>=3.9)
+- Git
+- Firebase project
+
+

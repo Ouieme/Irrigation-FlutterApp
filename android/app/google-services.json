@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27597155714",
+    "project_id": "irrigo-3d24f",
+    "storage_bucket": "irrigo-3d24f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27597155714:android:20fb8000473b469158f39b",
+        "android_client_info": {
+          "package_name": "com.example.irrigo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANj4u7CCuZSZ0m-nzj1AcoegPM9q0qUcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

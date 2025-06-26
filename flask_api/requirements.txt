@@ -1,0 +1,7 @@
+Flask==2.3.3
+firebase-admin==6.4.0
+joblib==1.4.0
+numpy==1.26.4
+scikit-learn==1.6.1
+requests==2.31.0
+python-dotenv==1.0.1
